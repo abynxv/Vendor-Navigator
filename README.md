@@ -48,7 +48,7 @@ API Endpoints
     Method   : POST    - Logging in & Create a token for registered user account.
     Data     : JSON    - {"username": "string","password": "string"}
 
-2)Logout & Token Deletion
+3)Logout & Token Deletion
 
     Endpoint : /api/logout/
     Method   : POST    - Logging out & Delete the token for registered user account.
@@ -93,7 +93,7 @@ f)
     Endpoint  : /api/vendors/{id}/historical_performance/
     Method    : GET    - (Retrieve historical performance metrics for a specific vendor)
        
-4)Purchase Order Management
+5)Purchase Order Management
 
 a)  
 
