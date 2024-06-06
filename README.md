@@ -119,10 +119,10 @@ e)
     Data      : JSON   - {"vendor": "id", {"items": "string"}}
 f)  
 
-    Endpoint: /api/purchase_orders/{id}/
-    Method: DELETE (Delete details of a specific purchase order)
+    Endpoint  : /api/purchase_orders/{id}/
+    Method    : DELETE - (Delete details of a specific purchase order)
 g)  
 
-    Endpoint: /api/purchase_orders/{id}/acknowledge/
-    Method: POST (Acknowledge a purchase order and update acknowledgment date)
+    Endpoint  : /api/purchase_orders/{id}/acknowledge/
+    Method    : POST   - (Acknowledge a purchase order and update acknowledgment date)
     
